@@ -1,0 +1,23 @@
+{
+  "name": "tonresourceweb",
+  "version": "1.0.0",
+  "description": "Website TON IME RP",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fhariyadi-dev/tonresourceweb"
+  },
+  "keywords": [
+    "ton",
+    "dashboard",
+    "armory"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
